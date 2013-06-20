@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="tags_positive">
+        <item>Happy</item>
+        <item>Trust</item>
+        <item>Excited</item>
+        <item>Love</item>
+        <item>Admiration</item>
+        <item>High</item>
+        <item>Relaxed</item>
+        <item>Optimistic</item>
+        <item>Inspired</item>
+        <item>Pleased</item>
+        <item>Peaceful</item>
+        <item>Proud</item>
+    </string-array>
+    <string-array name="tags_negative">
+        <item>Sad</item>
+        <item>Fearful</item>
+        <item>Bored</item>
+        <item>Hate</item>
+        <item>Disgusted</item>
+        <item>Low</item>
+        <item>Stressed</item>
+        <item>Pessimistic</item>
+        <item>Depressed</item>
+        <item>Frustrated</item>
+        <item>Angry</item>
+        <item>Ashamed</item>
+    </string-array>
+    <string-array name="tags_various">
+        <item>Sexy</item>
+        <item>Cheeky</item>
+        <item>Funky</item>
+        <item>Naughty</item>
+        <item>Crazy</item>
+        <item>Cool</item>
+        <item>Hot</item>
+        <item>Giggly</item>
+        <item>Energetic</item>
+        <item>Tired</item>
+        <item>Hungry</item>
+        <item>Thirsty</item>
+        <item>Crazy</item>
+    </string-array>
+
+</resources>
